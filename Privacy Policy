@@ -1,0 +1,56 @@
+Privacy Policy
+Last Updated: 27/03/2025
+
+1. Introduction
+This Privacy Policy governs your use of the eHealthSampleApp mobile application ("the App"), a personal project designed to simulate the user eHealth platform with added step-counting functionality. By using the App, you agree to the terms outlined below.
+
+2. Data Collected & Purpose
+The App may process the following data exclusively on your device (no external transmission):
+
+Step Count Data: Accessed via your device’s motion sensors to display daily activity metrics.
+
+Mock Health Data: Simulated medical records (e.g., prescriptions, vaccinations) for UI demonstration purposes only.
+
+Storage Data: Optional local caching to improve performance.
+
+No personal health data is collected, stored, or shared.
+
+3. Data Storage & Security
+All data remains locally on your device and is never uploaded to servers or shared with third parties.
+
+You may delete cached data anytime via your device settings.
+
+4. Permissions
+The App requests the following permissions:
+
+Physical Activity: To track step counts.
+
+Storage : For caching UI elements or exported mock data.
+
+5. Third-Party Disclosures
+No data is shared with:
+
+Governments, advertisers, or healthcare providers.
+
+Any external APIs, cloud services, or analytics tools.
+
+6. Disclaimer of Medical Use
+This App is not a medical tool and does not provide healthcare advice.
+
+Mock health records are simulated for UI/UX design practice only.
+
+7. User Rights
+Access/Delete Data: Clear app data via your device settings.
+
+Opt-Out: Uninstall the App to halt all processing.
+
+8. Policy Updates
+We may update this policy periodically. Continued use constitutes acceptance of revisions.
+
+
+Jurisdiction: This Policy is governed by Turkey laws.
+
+Key Legal Safeguards:
+Local-Only Focus: Explicitly states no data leaves the device.
+
+Medical Disclaimer: Avoids liability for misuse as a health tool.
